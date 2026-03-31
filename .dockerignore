@@ -1,0 +1,71 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info
+dist
+build
+.eggs
+
+# Virtual environments
+venv
+env
+.env
+.venv
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov
+
+# Logs
+logs
+*.log
+
+# Data
+data
+*.faiss
+*.pkl
+*.pickle
+
+# AWS
+.aws
+credentials
+
+# Documentation
+*.md
+!requirements.txt
+
+# Docker
+Dockerfile*
+docker-compose*
+.docker
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/build
+frontend/.env
+frontend/.vite
+
+# Temp files
+*.tmp
+*.temp
+.cache
