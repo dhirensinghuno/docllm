@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """Configuration management for Document Query System."""
 
 import os

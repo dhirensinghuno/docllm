@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author: dhirenkumarsingh
 # Start both backend and frontend
 
 # Start backend in background

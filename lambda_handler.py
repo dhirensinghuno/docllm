@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """AWS Lambda handler for document processing."""
 
 import json

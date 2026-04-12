@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """FastAPI application for Document Query System."""
 
 import logging

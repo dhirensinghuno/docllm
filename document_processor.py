@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """Document processing utilities."""
 
 import re

@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """Vector store implementations using scikit-learn (pure Python fallback)."""
 
 import os

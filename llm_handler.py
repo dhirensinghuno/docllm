@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """LLM integration using OpenAI or Ollama."""
 
 import logging

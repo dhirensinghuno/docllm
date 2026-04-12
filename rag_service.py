@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """RAG service orchestrating all components."""
 
 import uuid

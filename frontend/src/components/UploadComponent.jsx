@@ -1,3 +1,4 @@
+// Author: dhirenkumarsingh
 import { useState } from 'react';
 import { Upload, X, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
 

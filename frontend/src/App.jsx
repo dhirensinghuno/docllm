@@ -1,3 +1,4 @@
+// Author: dhirenkumarsingh
 import { useState, useEffect } from 'react';
 import Header from './components/Header';
 import UploadComponent from './components/UploadComponent';

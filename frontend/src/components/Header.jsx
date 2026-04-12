@@ -1,3 +1,4 @@
+// Author: dhirenkumarsingh
 import { useState, useEffect } from 'react';
 import { Brain, Settings } from 'lucide-react';
 

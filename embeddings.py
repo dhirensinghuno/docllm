@@ -1,3 +1,4 @@
+# Author: dhirenkumarsingh
 """Embedding generation using OpenAI or Ollama."""
 
 import logging
